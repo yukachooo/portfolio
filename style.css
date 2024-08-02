@@ -75,7 +75,7 @@ img {
     height: 85vh;
     background-size: cover;
     background-position: center;
-    background-image: url(../images/top_images.jpg);
+    background-image: url(..images/top_images.jpg);
 }
 .home-content {
     text-align: center;
