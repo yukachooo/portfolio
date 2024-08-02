@@ -165,6 +165,7 @@ h2 {
     width: 100%;
     max-width: 1100px;
     margin: 0 auto;
+    overflow: hidden;
 }
 
 .fadein {
