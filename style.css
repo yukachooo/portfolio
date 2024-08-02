@@ -75,7 +75,7 @@ img {
     height: 85vh;
     background-size: cover;
     background-position: center;
-    background-image: url(..images/top_images.jpg);
+    background-image: url(https://github.com/yukachooo/portfolio/blob/main/images/top_images.jpg?raw=true);
 }
 .home-content {
     text-align: center;
