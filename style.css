@@ -288,6 +288,11 @@ h4 {
 }
 .paragraph1 {
     color: #F0B592;
+    font-weight: bold;
+}
+.paragraph0 {
+    color: #F0B592;
+    font-weight: bold;
 }
 .profile-text {
     width: 470px;
