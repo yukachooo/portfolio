@@ -17,6 +17,10 @@ img {
     height: auto;
 }
 
+.wrapper {
+    padding: 0 3.5rem;
+}
+
 /* HEADER
 ----------------*/
 .logo {
@@ -642,22 +646,22 @@ footer p {
     .photos {
         right: 30%;
         width: 475px;
-        height: 370px;
-        text-align: center;
+        height: 400px;
+        margin-bottom: 50px;
     }
     .photo1 img {
         max-width: 60%;
     }
     .photo2 {
         width: 128.8px;
-        height: 280.2px;
-        left: 185px;
+        height: 350px;
+        left: 165px;
 
     }
     .profile-text {
         width: 100%;
         height: auto;
-        padding-top:9vh;
+        margin-top: 5vh;
     }
     .paragraph {
         font-size: .875rem;
