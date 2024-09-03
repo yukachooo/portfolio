@@ -198,6 +198,12 @@ h2 {
     margin-bottom: 20px;
 }
 
+.item0 {
+    position: relative;
+    width: 30%;
+    background-size: cover;
+}
+
 .item {
     position: relative;
     width: 30%;
