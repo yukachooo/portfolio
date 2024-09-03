@@ -211,6 +211,8 @@ h2 {
     background-size: cover;
     margin-bottom: 18px;
 }
+.pc { display: block !important; }
+.sp { display: none !important; }
 
 .item-hov {
     position: absolute;
@@ -543,7 +545,7 @@ footer p {
 
 /* mobile */
 
-@media (max-width: 600px) {
+@media only screen and  (max-width: 600px) {
 
     /* body */
     body {
@@ -735,6 +737,8 @@ footer p {
     .works-text {
         font-size: .85rem;
     }
+    .pc { display: none !important; }
+    .sp { display: block !important; }
 
     /* CONTACT
     ------------ */ 
