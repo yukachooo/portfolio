@@ -202,6 +202,7 @@ h2 {
     position: relative;
     width: 30%;
     background-size: cover;
+    margin-bottom: 18px;
 }
 
 .item {
@@ -619,6 +620,9 @@ footer p {
     .works-items {
     flex-direction: column;
     }
+    .item0 {
+    margin-bottom: 0px;
+}
     .item {
         width: 100%;
     }
